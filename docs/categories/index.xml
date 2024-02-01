@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Shaan Amin</title>
-    <link>https://shaan-amin.github.io/categories/</link>
-      <atom:link href="https://shaan-amin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2024</copyright>
     <image>
-      <url>https://shaan-amin.github.io/images/logo_huebfbeeb8df50a560f29d39aa9b2eb5b9_334792_300x300_fit_lanczos_2.png</url>
+      <url>/images/logo_huebfbeeb8df50a560f29d39aa9b2eb5b9_334792_300x300_fit_lanczos_2.png</url>
       <title>Categories</title>
-      <link>https://shaan-amin.github.io/categories/</link>
+      <link>/categories/</link>
     </image>
     
   </channel>

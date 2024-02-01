@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Checking Bahasa Indonesia</title>
-    <link>https://shaan-amin.github.io/id/talk/</link>
-      <atom:link href="https://shaan-amin.github.io/id/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>/id/talk/</link>
+      <atom:link href="/id/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>id</language><copyright>©2024</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shaan-amin.github.io/images/logo_huebfbeeb8df50a560f29d39aa9b2eb5b9_334792_300x300_fit_lanczos_2.png</url>
+      <url>/images/logo_huebfbeeb8df50a560f29d39aa9b2eb5b9_334792_300x300_fit_lanczos_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://shaan-amin.github.io/id/talk/</link>
+      <link>/id/talk/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://shaan-amin.github.io/id/talk/example/</link>
+      <link>/id/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://shaan-amin.github.io/id/talk/example/</guid>
+      <guid>/id/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.

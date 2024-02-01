@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Odds and Ends | Shaan Amin</title>
-    <link>https://shaan-amin.github.io/writing/journalism/</link>
-      <atom:link href="https://shaan-amin.github.io/writing/journalism/index.xml" rel="self" type="application/rss+xml" />
+    <link>/writing/journalism/</link>
+      <atom:link href="/writing/journalism/index.xml" rel="self" type="application/rss+xml" />
     <description>Odds and Ends</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2024</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shaan-amin.github.io/images/logo_huebfbeeb8df50a560f29d39aa9b2eb5b9_334792_300x300_fit_lanczos_2.png</url>
+      <url>/images/logo_huebfbeeb8df50a560f29d39aa9b2eb5b9_334792_300x300_fit_lanczos_2.png</url>
       <title>Odds and Ends</title>
-      <link>https://shaan-amin.github.io/writing/journalism/</link>
+      <link>/writing/journalism/</link>
     </image>
     
     <item>
       <title>Indian (American) identity</title>
-      <link>https://shaan-amin.github.io/writing/journalism/indian_american_identity/</link>
+      <link>/writing/journalism/indian_american_identity/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://shaan-amin.github.io/writing/journalism/indian_american_identity/</guid>
+      <guid>/writing/journalism/indian_american_identity/</guid>
       <description>&lt;p&gt;I am a Hindu Indian American, with a common Muslim first name and a common Muslim last name. Also, I grew up in the rural Rustbelt. Suffice to say, I have a lot to unpack.&lt;/p&gt;
 &lt;h2 id=&#34;money-talks-the-special-interests-of-shalabh-kumar-trumps-favourite-indian-american&#34;&gt;Money Talks: The special interests of Shalabh Kumar, Trump&amp;rsquo;s favourite Indian American&lt;/h2&gt;
 &lt;p&gt;In 
@@ -39,9 +39,9 @@
     
     <item>
       <title>Pop culture</title>
-      <link>https://shaan-amin.github.io/writing/journalism/nerd_culture/</link>
+      <link>/writing/journalism/nerd_culture/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://shaan-amin.github.io/writing/journalism/nerd_culture/</guid>
+      <guid>/writing/journalism/nerd_culture/</guid>
       <description>&lt;p&gt;I talk about the political effects of comics, the Internet, and other media, because I am an intersectional nerd.&lt;/p&gt;
 &lt;h2 id=&#34;why-attack-on-titan-is-the-alt-rights-favorite-manga&#34;&gt;Why Attack on Titan is the Alt-Right&amp;rsquo;s Favorite Manga&lt;/h2&gt;
 &lt;p&gt;In 
