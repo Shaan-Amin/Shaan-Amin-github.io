@@ -9232,3 +9232,14 @@ div.mermaid {
  **************************************************/
 html[dir="rtl"] body {
   text-align: right; }
+
+div.alert-example > div:first-child::before {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  color: #4c5f26;
+  content: '\f0eb'; }
+
+.alert-example {
+  color: #111111;
+  background-color: #ccddaa;
+  border-color: #4c5f26; }

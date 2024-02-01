@@ -292,4 +292,8 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
-  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  fab = true
+  ai = true # Academicons icon pack https://jpswalsh.github.io/academicons/
+  custom = true
+ # academicons:
+ #   enable: true

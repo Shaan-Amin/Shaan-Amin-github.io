@@ -22,7 +22,7 @@ subtitle = ""
   # description = "10%"
 
 [[feature]]
-  icon = "pen"
+  icon = "pen-nib"
   icon_pack = "fas"
   name = "Plain Language Writing"
   # description = "10%"
@@ -33,11 +33,11 @@ subtitle = ""
   name = "Bahasa Indonesia"
   # description = "10%"
 
-# [[feature]]
-#   icon = "arrow-alt-circle-down"
-#   icon_pack = "fas"
-#   name = "Web Scraping"
-#   # description = "90%"
+[[feature]]
+   icon = "camera-retro"
+   icon_pack = "fas"
+   name = "Investigative Journalism"
+   # description = "90%"
   
 [[feature]]
   icon = "chart-line"
@@ -50,6 +50,7 @@ subtitle = ""
   icon_pack = "fas"
   name = "Functional Programming"
   # description = "10%"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]

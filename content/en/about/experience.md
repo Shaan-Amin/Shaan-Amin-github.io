@@ -13,7 +13,7 @@ headless: true
 weight: 40
   
 
-title: "work"
+title: "✒️"
 subtitle:
 
 # Date format
