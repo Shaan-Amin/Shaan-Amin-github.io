@@ -11,13 +11,15 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 40
+  
 
-title: "work "
+title: "work"
 subtitle:
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format: Jan 2006
+
 
 # Experiences.
 #   Add/remove as many `experience` blocks below as you like.

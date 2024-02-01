@@ -94,7 +94,7 @@
   
   <url>
     <loc>/id/publication-type/1/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -104,6 +104,111 @@
                 rel="alternate"
                 hreflang="id"
                 href="/id/publication-type/1/"
+                />
+  </url>
+  
+  <url>
+    <loc>/id/authors/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/id/research/dissertation/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/research/dissertation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/research/dissertation/"
+                />
+  </url>
+  
+  <url>
+    <loc>/id/publication_types/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/id/research/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/research/"
+                />
+  </url>
+  
+  <url>
+    <loc>/id/author/shaan-amin/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/shaan-amin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/author/shaan-amin/"
+                />
+  </url>
+  
+  <url>
+    <loc>/id/tag/source-themes/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tag/source-themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/tag/source-themes/"
+                />
+  </url>
+  
+  <url>
+    <loc>/id/tags/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/tags/"
                 />
   </url>
   
@@ -119,96 +224,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="/id/research/framing_bargaining/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/authors/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/publication_types/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/research/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/research/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/author/shaan-amin/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/shaan-amin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/author/shaan-amin/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/tag/source-themes/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tag/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/tag/source-themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/tags/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/tags/"
                 />
   </url>
   
@@ -358,10 +373,6 @@
                 hreflang="id"
                 href="/id/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>/id/resume/</loc>
   </url>
   
 </urlset>
