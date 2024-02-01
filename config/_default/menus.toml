@@ -47,9 +47,3 @@
    url = "files/amin_cv.pdf"
    weight = 70
 
-
-
-[[main]]
-  name = "Resume"
-  url = "/resume"
-  weight = 50
