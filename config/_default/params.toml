@@ -19,9 +19,9 @@ plugins_css = ["custom"]
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
 theme = "minimal"
-# custom_theme = "tachyon-color-palette"
+# theme_day = "my_theme"
 # Enable users to switch between day and night mode?
-day_night = false
+# day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -117,7 +117,7 @@ office_hours = ["By appointment"]
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "@ShaanWrites", link = "https://twitter.com/ShaanWrites"},
+  #{icon = "goodreads", icon_pack = "fab", name = "Goodreads", link = "https://www.goodreads.com/user/show/161649111-shaan-amin"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -132,7 +132,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "ShaanWrites"
+#twitter = "ShaanWrites"
 
 ############################
 ## Regional Settings

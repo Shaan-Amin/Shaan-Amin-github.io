@@ -4,9 +4,9 @@ draft: false
 linktitle: Indian (American) identity
 menu:
   journalism:
-    parent: Journalism and commentary
+    parent: Odds and Ends
     weight: 1
-title: Indian and Indian-American identity
+title: Indian (American) identity
 toc: true
 type: docs
 weight: 1

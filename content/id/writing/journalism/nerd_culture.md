@@ -4,7 +4,7 @@ draft: false
 linktitle: Pop culture and media
 menu:
   journalism:
-    parent: Journalism and commentary
+    parent: Odds and Ends
     weight: 2
 title: Pop culture
 toc: true

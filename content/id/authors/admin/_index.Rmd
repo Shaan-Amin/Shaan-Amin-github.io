@@ -24,9 +24,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
+- icon: goodreads
   icon_pack: fab
-  link: https://twitter.com/ShaanWrites
+  link: https://www.goodreads.com/user/show/161649111-shaan-amin
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=jLKhg_0AAAAJ
