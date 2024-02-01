@@ -13,7 +13,7 @@ title = "Shaan Amin"
 # publishing site to Netlify or Github Pages?
 # baseurl = "https://shaan-amin.netlify.app/"
 # baseurl for Github Pages is blank
-baseurl = "/"
+baseurl = ""
 
 
 # publish from which directory?
