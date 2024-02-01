@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Checking Bahasa Indonesia</title>
+    <link>https://shaan-amin.github.io/id/research/</link>
+      <atom:link href="https://shaan-amin.github.io/id/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>id</language><copyright>©2024</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shaan-amin.github.io/images/logo_huebfbeeb8df50a560f29d39aa9b2eb5b9_334792_300x300_fit_lanczos_2.png</url>
+      <title>Research</title>
+      <link>https://shaan-amin.github.io/id/research/</link>
+    </image>
+    
+    <item>
+      <title>Anticipating Backlash</title>
+      <link>https://shaan-amin.github.io/id/research/framing_bargaining/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shaan-amin.github.io/id/research/framing_bargaining/</guid>
+      <description>&lt;p&gt;Supplementary notes and dataset forthcoming upon publication.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
