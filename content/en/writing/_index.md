@@ -28,8 +28,3 @@ title: "Writing"
 
 ["The Bhagavad Gita's Hindu Theology"](https://partiallyexaminedlife.com/2018/12/03/ep204-1-bhagavad-gita/) (*The Partially Examined Life*)
 
-## Creative Nonfiction
-
-"Each Other" (print, Washington Square Review) 
-
-"HEAT" (The Rumpus)
